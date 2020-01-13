@@ -1,5 +1,6 @@
 {
-    "code": "SUCCESS",
+    "studios": {
+	    "code": "SUCCESS",
     "data": [
         {
             "studioUUId": "641842c4-73b0-4748-afa1-c29dfa3a0552",
@@ -534,4 +535,5 @@
             }
         }
     ]
+}
 }
