@@ -24,7 +24,7 @@
                     "physicalPostalCode": "5062",
                     "physicalRegion": "AUS-01",
                     "physicalCountryId": null,
-                    "physicalCountry": "Australia",
+                    "physicalCountry": "United States",
                     "phoneNumber": "(08) 8490 0910",
                     "latitude": -34.999229,
                     "longitude": 138.618164
@@ -54,7 +54,37 @@
                     "physicalPostalCode": "2900",
                     "physicalRegion": "AUS-01",
                     "physicalCountryId": null,
-                    "physicalCountry": "Australia",
+                    "physicalCountry": "United States",
+                    "phoneNumber": "(02) 6171 8325",
+                    "latitude": -35.418491,
+                    "longitude": 149.068253
+                },
+                "studioUUId": "f40c3ca1-44cc-4e0d-bc90-cf504614868c"
+            }
+        ],
+       [
+            {
+                "studioId": 2867,
+                "mboStudioId": 886366,
+                "studioName": "Tuggeranong, ACT",
+                "areaId": null,
+                "marketId": null,
+                "stateId": null,
+                "studioPhysicalLocationId": 2443,
+                "studioNumber": "AUS047",
+                "description": null,
+                "studioVersion": null,
+                "studioToken": "d9526605-ce7e-4fa7-a0e3-461588128d4c",
+                "studioStatus": "Active",
+               "contactEmail": "lokesh.kataria@publicissapient.com",
+                "studioLocation": {
+                    "physicalAddress": "311 Anketell St.",
+                    "physicalCity": "Greenway",
+                    "physicalState": "Australian Capital Territory",
+                    "physicalPostalCode": "2900",
+                    "physicalRegion": "AUS-01",
+                    "physicalCountryId": null,
+                    "physicalCountry": "United States",
                     "phoneNumber": "(02) 6171 8325",
                     "latitude": -35.418491,
                     "longitude": 149.068253
